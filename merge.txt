@@ -1,6 +1,26 @@
-this is
-cool and
+super = big file
 
-a great file!
-so epic
-i like to eat
+import epiclib
+
+epic.lib.draw():
+	so cool
+
+
+wow.fill(255,0,0)
+
+for l in loses:
+	print(how many mat has) # a lot XD
+	while wait this isnt python this is a textfile:
+		try:
+			print(life choices)
+		except Null:
+			wait doesnt python use None
+
+
+hellyeaitdoes()
+
+ilove.wasting(time)
+can we stop
+
+
+sure.run("fnf88ej2krf9f")
