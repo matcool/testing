@@ -1,15 +1,20 @@
+circle = new ball(big)
 super = big file
+
 
 import epiclib
 
 epic.lib.draw():
 	so cool
+	circle.draw()
 
 
 wow.fill(255,0,0)
+color.circle(what)
 
 for l in loses:
 	print(how many mat has) # a lot XD
+	circle.move()
 	while wait this isnt python this is a textfile:
 		try:
 			print(life choices)
@@ -21,6 +26,6 @@ hellyeaitdoes()
 
 ilove.wasting(time)
 can we stop
-
+sure
 
 sure.run("fnf88ej2krf9f")
