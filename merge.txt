@@ -1,10 +1,12 @@
 circle = new ball(big)
 super = big file
+block = new Piece(3,5)
 
 
 import epiclib
 
 epic.lib.draw():
+block.draw("so cool")
 	so cool
 	circle.draw()
 
@@ -13,19 +15,20 @@ wow.fill(255,0,0)
 color.circle(what)
 
 for l in loses:
-	print(how many mat has) # a lot XD
+	print(how many mat has) # a lot XDblock.update(epic)
 	circle.move()
 	while wait this isnt python this is a textfile:
 		try:
 			print(life choices)
 		except Null:
 			wait doesnt python use None
-
+      damn this sucks(update);
 
 hellyeaitdoes()
 
 ilove.wasting(time)
 can we stop
 sure
+epic i cant type on tab
 
 sure.run("fnf88ej2krf9f")
