@@ -1,3 +1,3 @@
 # testing
 testing how to use git...
-![funny man](https://tenor.com/view/spider-man-spiderman-dance-dancing-gif-5606790)
+![funny man](https://media.tenor.com/images/bb9ac7adc5131ea0745b8658973937eb/tenor.gif)
